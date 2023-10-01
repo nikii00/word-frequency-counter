@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 $items = [
     ['name' => 'Widget A', 'price' => 10],
